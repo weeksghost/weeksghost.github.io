@@ -8,12 +8,14 @@ defaults:
     scope:
       path: ""
       type: "posts"
+    values:
+      comments: true
 
 image_base:          /public/images/
 
 title:               Media Hive Web QA
 paginate:            4
-baseurl:             "/"
+baseurl:             ""
 
 sass:
   sass_dir:          _sass
