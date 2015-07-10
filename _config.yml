@@ -1,2 +1,25 @@
+permalink: "/:title"
+relative_permalinks: true
+
 highlighter: pygments
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+
+image_base:          /public/images/
+
+title:               Media Hive Web QA
+paginate:            4
+baseurl:             "/"
+
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+markdown:    redcarpet
+excerpt_separator: "<!--break-->"
+
 github: [Repository metadata]
