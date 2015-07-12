@@ -13,7 +13,7 @@ defaults:
 
 image_base:          /public/images/
 
-title:               Media Hive Web QA
+title:               Erik Marty
 paginate:            4
 baseurl:             ""
 

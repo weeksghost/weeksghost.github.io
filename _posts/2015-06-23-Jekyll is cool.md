@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Jekyll is cool
+title: Well played Jekyll
 comments: false
 summary: Impressed by Jekyll.  It was surprisely easy to switch from txt2site to Jekyll.
 ---
 
 
 <div class="message">
-My first post in a new Jekyll-based blog!
+Jekyll!
 </div>
 
 Several useful links if you want to make your Jekyll-based blog:
